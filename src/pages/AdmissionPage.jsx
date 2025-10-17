@@ -77,7 +77,7 @@ const AdmissionsPage = () => {
         For detailed information on postgraduate program admissions, specific
         program syllabi, and fee structures, please visit our{" "}
         <Link to="/courses">Courses page</Link> or{" "}
-        <Link to="/contact">Contact us</Link> directly.
+        <Link to="/contacts">Contact us</Link> directly.
       </p>
       </div>
        <Footer/>
