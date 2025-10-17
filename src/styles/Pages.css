@@ -252,23 +252,6 @@ display: inline-block;
   line-height: 1.6;
 }
 
-@media (max-width: 768px) {
-  .programs-table {
-    display: block;
-    width: 100%;
-    overflow-x: auto; 
-    -webkit-overflow-scrolling: touch; 
-  }
-
-  .programs-table th,
-  .programs-table td {
-    padding: 8px 10px;
-    font-size: 14px;
-    white-space: nowrap;
-  }
-}
-
-
 
 
 
