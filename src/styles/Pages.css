@@ -271,6 +271,23 @@ display: inline-block;
 
 
 
+@media (max-width: 768px) {
+  .admissions-table {
+    display: block;
+    width: 100%;
+    overflow-x: auto; 
+    -webkit-overflow-scrolling: touch; 
+  }
+
+  .admissions-table th,
+  .admissions-table td {
+    padding: 8px 10px;
+    font-size: 14px;
+    white-space: nowrap;
+  }
+}
+
+
 
 
 
