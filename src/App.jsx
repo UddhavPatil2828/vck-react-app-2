@@ -24,8 +24,8 @@ const App =()=>{
         <DeveloperInfoPopup
           show={showPopup}
           onClose={handleClosePopup}
-          studentName="Uddhav Mahukar Patil"
-          studentPhotoUrl="/images/saniya.jpg" // Path to their photo
+          studentName="Uddhav Madhukar Patil"
+          studentPhotoUrl="/images/stud_img.jpg" // Path to their photo
           uniqueMessage="Learned so much during this OJT! This app showcases my independent coding and deployment skills"
         />
       </div>
